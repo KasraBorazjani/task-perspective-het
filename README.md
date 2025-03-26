@@ -124,7 +124,7 @@ We recommend using a `--init_lr` of 1e-5 for the classification task and 1e-1 fo
 If you find this work useful, please consider citing:
 
 ```bibtex
-@article{your_paper,
+@article{borazjani25redefining,
   author = {Kasra Borazjani, Payam Abdisarabshali, Naji Khosravan, Seyyedali Hosseinalipour},
   title = {Redefining non-IID Data in Federated Learning for Computer Vision Tasks: Migrating from Labels to Embeddings for Task-Specific Data Distributions},
   journal = {ArXiv Preprint},
